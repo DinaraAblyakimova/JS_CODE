@@ -3,4 +3,4 @@ num += 7;
 num -= 18;
 num *= 10;
 num /= 15;
-alert(num);
+cobsole.log(num);
