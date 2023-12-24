@@ -18,7 +18,7 @@ if (!test2) {
 // task 3
 let test3 = true;
 
-if (!(!test3)) {
+if (test3) {
 	console.log('+++');
 } else {
 	console.log('---');
